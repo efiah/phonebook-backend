@@ -1,0 +1,24 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "exercice node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/efiah/Full-Stack-Open-Course-backend.git"
+  },
+  "author": "Elly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efiah/Full-Stack-Open-Course-backend/issues"
+  },
+  "homepage": "https://github.com/efiah/Full-Stack-Open-Course-backend#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
